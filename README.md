@@ -1,0 +1,1 @@
+# Detection-of-diabatic-or-non-diabetic-using-Logistic-regression
