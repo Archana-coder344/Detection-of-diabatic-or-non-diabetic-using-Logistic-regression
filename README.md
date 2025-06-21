@@ -1,7 +1,7 @@
 # Detection-of-diabatic-or-non-diabetic-using-Logistic-regression
 Early detection of diabetes is critical for preventing complications and improving patient outcomes. This project aims to build a binary classification model that predicts the likelihood of diabetes based on input features such as glucose levels, BMI, age, and more.
-Technologies Used
 
+Technologies Used:
 - Programming Language**: Python
 - Machine Learning**: Scikit-learn
 - Data Handling**: Pandas, NumPy
