@@ -34,8 +34,8 @@ weighted avg       0.76      0.75      0.75       154
 - Confusion Matrix
 <img width="497" alt="Confusion matrix" src="https://github.com/user-attachments/assets/04cd6b7d-a237-430c-b1c2-5d72748b808e" />
 
--ROC Curve
-<img width="533" alt="ROC-Curve" src="https://github.com/user-attachments/assets/92f882cd-5e23-4f04-af3c-ac729a54572c" />
+- ROC Curve
+ <img width="533" alt="ROC-Curve" src="https://github.com/user-attachments/assets/92f882cd-5e23-4f04-af3c-ac729a54572c" />
 
 
 
